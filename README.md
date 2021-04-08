@@ -1,6 +1,17 @@
 # Machine Learning Prerequisites
 ___
 
+To cloning this git repository into your machine
+
+copy paste the command into your git bash or CMD or Powershell and enter
+
+```bash
+git clone https://github.com/ikaushikpal/ML_Prerequisite.git
+```
+if you don't have git then download the zip file [_link_](https://github.com/ikaushikpal/ML_Prerequisite/archive/refs/heads/main.zip)
+
+___
+
 * Numpy basics are done from youtube [FCC chanel](https://www.youtube.com/watch?v=QUT1VHiLmmI)
 * Currently pandas on track
 > pandas playlist from [youtube](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS "Corey Schafer")
