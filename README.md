@@ -18,8 +18,8 @@ ___
 
 
 * [x] [Numpy](https://github.com/ikaushikpal/ML_Prerequisite/tree/main/numpy%20basics)
-* [ ] [Pandas](https://github.com/ikaushikpal/ML_Prerequisite/tree/main/pandas%20basics)
-* [ ] Matplotlib
+* [x] [Pandas](https://github.com/ikaushikpal/ML_Prerequisite/tree/main/pandas%20basics)
+* [x] [Matplotlib](https://github.com/ikaushikpal/ML_Prerequisite/tree/main/matplotlib%20basics)
 
 
 > **NOTE**
