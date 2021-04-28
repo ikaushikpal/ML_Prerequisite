@@ -2,6 +2,9 @@
   "notebooks": {
     "python-practice-assignment-1.ipynb": {
       "slug": "5c8b3bf3a50e4a8ea9eebd950f590e47"
+    },
+    "numpy-array-operations 2.ipynb": {
+      "slug": "1e710611c46a41b3a6d3654a998e957f"
     }
   }
 }
